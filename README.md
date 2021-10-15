@@ -18,7 +18,8 @@ Python Jupyter notebook and Streamlit
 ## Operation
 1. Type the values for all 9 input parameters
 2. Click on Predict
-3. The impact of the incident is shown.
+3. The impact of the incident is shown. (1 --> Low, 2 --> Medium, 3 --> High)
 
 ## Screenshot
+![Screenshot](https://user-images.githubusercontent.com/83585067/137505321-f28e9bf4-bad9-408f-aba5-2949b5b6b1ec.png)
 
